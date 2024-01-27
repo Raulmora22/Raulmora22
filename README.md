@@ -1,6 +1,6 @@
 Hi 👋 My name is Raúl Mora
 ==========================
-🌍  I'm based in Madrid,Spain  
+🌍  </h1>I'm based in Madrid,Spain<h1>  
 🧠  </h1>I'm learning Web development and Software development<h1>
 
 Skills
