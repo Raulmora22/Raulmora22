@@ -4,10 +4,8 @@
 
 <br>
 
-<p><img align="right" src="/home/raul/Documentos/projects/github profile/photos.img/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" height="400" width="500"  /></p>
 
-
-- 🌱 I’m currently learning Web Development and other programming languages
+-  I’m currently learning Web Development and other programming languages
 
 
 <br>
@@ -15,37 +13,37 @@
 <b><h3 align="left">My skills</h3></b>
 <p align="left">
   <a href="https://code.visualstudio.com/" target="blank"><img align="center"
-      src="/home/raul/Documentos/projects/github profile/photos.img/VSCode-Dark.svg"
+      src="https://raw.githubusercontent.com/Raulmora22/Raulmora22/ac4ea903136a18d032fd6cd969c8fbf8e015dd31/images/VSCode-Dark.svg"
       alt="Raúl Mora" height="40" width="40" /></a>
  <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="blank"><img align="center"
-      src="/home/raul/Documentos/projects/github profile/photos.img/Bash-Dark.svg"
+      src="https://raw.githubusercontent.com/Raulmora22/Raulmora22/ac4ea903136a18d032fd6cd969c8fbf8e015dd31/images/Bash-Dark.svg"
       alt="Raúl Mora" height="40" width="40" /></a>
  <a href="https://hoppscotch.com/" target="blank"><img align="center"
-      src="/home/raul/Documentos/projects/github profile/photos.img/56705483.png"
+      src="https://github.com/Raulmora22/Raulmora22/blob/main/images/56705483.png?raw=true"
       alt="Raúl Mora" height="40" width="40" /></a>
  <a href="https://dbgate.org/" target="blank"><img align="center"
-      src="/home/raul/Documentos/projects/github profile/photos.img/icon.png"
+      src="https://github.com/Raulmora22/Raulmora22/blob/main/images/icon.png?raw=true"
       alt="Raúl Mora" height="40" width="40" /></a>
   <a href="https://git-scm.com/" target="blank"><img align="center"
-      src="/home/raul/Documentos/projects/github profile/photos.img/Git.svg"
+      src="https://raw.githubusercontent.com/Raulmora22/Raulmora22/ac4ea903136a18d032fd6cd969c8fbf8e015dd31/images/Git.svg"
       alt="Raúl Mora" height="40" width="40" /></a>
  <a href="" target="blank"><img align="center"
-      src="/home/raul/Documentos/projects/github profile/photos.img/Github-Dark.svg"
+      src="https://raw.githubusercontent.com/Raulmora22/Raulmora22/ac4ea903136a18d032fd6cd969c8fbf8e015dd31/images/Github-Dark.svg"
       alt="Raúl Mora" height="40" width="40" /></a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="blank"><img align="center"
-      src="/home/raul/Documentos/projects/github profile/photos.img/HTML.svg"
+      src="https://raw.githubusercontent.com/Raulmora22/Raulmora22/ac4ea903136a18d032fd6cd969c8fbf8e015dd31/images/HTML.svg"
       alt="Raúl Mora" height="40" width="40" /></a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="blank"><img align="center"
-      src="/home/raul/Documentos/projects/github profile/photos.img/CSS.svg"
+      src="https://raw.githubusercontent.com/Raulmora22/Raulmora22/ac4ea903136a18d032fd6cd969c8fbf8e015dd31/images/CSS.svg"
       alt="Raúl Mora" height="40" width="40" /></a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img align="center"
-      src="/home/raul/Documentos/projects/github profile/photos.img/JavaScript.svg"
+      src="https://raw.githubusercontent.com/Raulmora22/Raulmora22/ac4ea903136a18d032fd6cd969c8fbf8e015dd31/images/JavaScript.svg"
       alt="Raúl Mora" height="40" width="40" /></a>
  <a href="https://docker.com" target="blank"><img align="center"
-      src="/home/raul/Documentos/projects/github profile/photos.img/Docker.svg"
+      src="https://raw.githubusercontent.com/Raulmora22/Raulmora22/ac4ea903136a18d032fd6cd969c8fbf8e015dd31/images/Docker.svg"
       alt="Raúl Mora" height="40" width="40" /></a>
  <a href="https://docker.com" target="blank"><img align="center"
-      src="/home/raul/Documentos/projects/github profile/photos.img/Linux-Dark.svg"
+      src="https://raw.githubusercontent.com/Raulmora22/Raulmora22/ac4ea903136a18d032fd6cd969c8fbf8e015dd31/images/Linux-Dark.svg"
       alt="Raúl Mora" height="40" width="40" /></a>
  
 
@@ -61,31 +59,31 @@
 
 <b><h3 align="left"> I am studying :</h3></b>
 <p align="left"> 
-      <img   src="/home/raul/Documentos/projects/github profile/photos.img/TailwindCSS-Dark.svg"  
+      <img src="https://raw.githubusercontent.com/Raulmora22/Raulmora22/ac4ea903136a18d032fd6cd969c8fbf8e015dd31/images/TailwindCSS-Dark.svg"  
       alt="bootstrap" width="40" height="40" /> </a> 
-      <img src="/home/raul/Documentos/projects/github profile/photos.img/TypeScript.svg"
+      <img src="https://raw.githubusercontent.com/Raulmora22/Raulmora22/ac4ea903136a18d032fd6cd969c8fbf8e015dd31/images/TypeScript.svg"
       alt="bootstrap" width="40" height="40" /> </a> 
-      <img src="/home/raul/Documentos/projects/github profile/photos.img/MongoDB.svg"
+      <img src="https://raw.githubusercontent.com/Raulmora22/Raulmora22/ac4ea903136a18d032fd6cd969c8fbf8e015dd31/images/MongoDB.svg"
       alt="bootstrap" width="40" height="40" /> </a> 
-      <img src="/home/raul/Documentos/projects/github profile/photos.img/MySQL-Dark.svg"
+      <img src="https://raw.githubusercontent.com/Raulmora22/Raulmora22/ac4ea903136a18d032fd6cd969c8fbf8e015dd31/images/MySQL-Dark.svg"
       alt="bootstrap" width="40" height="40" /> </a> 
-      <img src="/home/raul/Documentos/projects/github profile/photos.img/Java-Dark.svg"
+      <img src="https://raw.githubusercontent.com/Raulmora22/Raulmora22/ac4ea903136a18d032fd6cd969c8fbf8e015dd31/images/Java-Dark.svg"
       alt="bootstrap" width="40" height="40" /> </a>
-      <img src="/home/raul/Documentos/projects/github profile/photos.img/Kubernetes.svg"
+      <img src="https://raw.githubusercontent.com/Raulmora22/Raulmora22/ac4ea903136a18d032fd6cd969c8fbf8e015dd31/images/Kubernetes.svg"
       alt="bootstrap" width="40" height="40" /></a> 
-      <img src="/home/raul/Documentos/projects/github profile/photos.img/Astro.svg"
+      <img src="https://raw.githubusercontent.com/Raulmora22/Raulmora22/ac4ea903136a18d032fd6cd969c8fbf8e015dd31/images/Astro.svg"
       alt="bootstrap" width="40" height="40" /></a> 
-      <img src="/home/raul/Documentos/projects/github profile/photos.img/VueJS-Dark.svg"
+      <img src="https://raw.githubusercontent.com/Raulmora22/Raulmora22/ac4ea903136a18d032fd6cd969c8fbf8e015dd31/images/VueJS-Dark.svg"
       alt="bootstrap" width="40" height="40" /></a>
-      <img src="/home/raul/Documentos/projects/github profile/photos.img/GoLang.svg"
+      <img src="https://raw.githubusercontent.com/Raulmora22/Raulmora22/ac4ea903136a18d032fd6cd969c8fbf8e015dd31/images/GoLang.svg"
       alt="bootstrap" width="40" height="40" /></a>
-      <img src="/home/raul/Documentos/projects/github profile/photos.img/Svelte.svg"
+      <img src="https://raw.githubusercontent.com/Raulmora22/Raulmora22/ac4ea903136a18d032fd6cd969c8fbf8e015dd31/images/Svelte.svg"
       alt="bootstrap" width="40" height="40" /></a>
-      <img src="/home/raul/Documentos/projects/github profile/photos.img/React-Dark.svg"
+      <img src="https://raw.githubusercontent.com/Raulmora22/Raulmora22/ac4ea903136a18d032fd6cd969c8fbf8e015dd31/images/React-Dark.svg"
       alt="bootstrap" width="40" height="40" /></a>  
-      <img src="/home/raul/Documentos/projects/github profile/photos.img/NextJS-Dark.svg"
+      <img src="https://raw.githubusercontent.com/Raulmora22/Raulmora22/ac4ea903136a18d032fd6cd969c8fbf8e015dd31/images/NextJS-Dark.svg"
       alt="bootstrap" width="40" height="40" /></a>
-      <img src="/home/raul/Documentos/projects/github profile/photos.img/py.svg"
+      <img src="https://raw.githubusercontent.com/Raulmora22/Raulmora22/ac4ea903136a18d032fd6cd969c8fbf8e015dd31/images/py.svg"
       alt="bootstrap" width="40" height="40" /></a>
 
  
@@ -93,7 +91,7 @@
 
 <br>
 
-<h3></h3>
+<b><h3>Statistical Data :</h3></b>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Raulmora22&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="adam-pw" 
@@ -108,3 +106,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Raulmora22&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
       
+
+
