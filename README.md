@@ -1,6 +1,6 @@
+<br>
 <h3 align="center">Hi 👋, I'm Raúl Mora</h3>
 
-<br>
 
 <div size='20px' align ="center">I’m currently learning Web Development and other programming languages 
 </div>
