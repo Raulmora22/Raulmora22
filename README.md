@@ -89,6 +89,13 @@
 <br>
 
 
- <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+<br>
+
+ <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Aneal07&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
+
+ <img  align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=Aneal07&theme=dark&hide_border=false"/>
+ 
+ <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Raulmora22&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+
   
  
