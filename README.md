@@ -1,6 +1,4 @@
 
-<br>
-
 <b><h3 align="center">My skills</h3></b>
 <p align="center">
   <a href="https://code.visualstudio.com/" target="blank"><img align="center"
