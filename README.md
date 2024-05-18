@@ -2,16 +2,13 @@
 
 <br>
 
-<br>
-
-
--  I’m currently learning Web Development and other programming languages
+- <p align="center" > I’m currently learning Web Development and other programming languages 
 
 
 <br>
 
-<b><h3 align="left">My skills</h3></b>
-<p align="left">
+<b><h3 align="center">My skills</h3></b>
+<p align="center">
   <a href="https://code.visualstudio.com/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/Raulmora22/Raulmora22/ac4ea903136a18d032fd6cd969c8fbf8e015dd31/images/VSCode-Dark.svg"
       alt="Raúl Mora" height="40" width="40" /></a>
@@ -57,8 +54,8 @@
 
 <br>
 
-<b><h3 align="left"> I am studying :</h3></b>
-<p align="left"> 
+<b><h3 align="center"> I am studying :</h3></b>
+<p align="center"> 
       <img src="https://raw.githubusercontent.com/Raulmora22/Raulmora22/ac4ea903136a18d032fd6cd969c8fbf8e015dd31/images/TailwindCSS-Dark.svg"  
       alt="bootstrap" width="40" height="40" /> </a> 
       <img src="https://raw.githubusercontent.com/Raulmora22/Raulmora22/ac4ea903136a18d032fd6cd969c8fbf8e015dd31/images/TypeScript.svg"
@@ -91,5 +88,7 @@
 
 <br>
 
-<b><h3>Statistical Data :</h3></b>
-![Raulmora22's Stats](https://github-readme-stats.vercel.app/api?username=Raulmora22&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
+
+ <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=1010nishant&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+ 
