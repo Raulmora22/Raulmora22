@@ -1,5 +1,3 @@
-<div size='20px' align ="center">I’m currently learning Web Development and other programming languages 
-</div>
 
 <br>
 
