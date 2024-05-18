@@ -1,101 +1,48 @@
-<h1 align="center">Hi 👋, I'm Raúl Mora</h1>
 
-<br>
+<h1 align="left">Hey 👋 What's up?</h1>
 
-- <p align="center" > I’m currently learning Web Development and other programming languages 
+###
 
+<p align="left">My name is ... and I'm a ..., from ....</p>
 
-<br>
+###
 
-<b><h3 align="center">My skills</h3></b>
-<p align="center">
-  <a href="https://code.visualstudio.com/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/Raulmora22/Raulmora22/ac4ea903136a18d032fd6cd969c8fbf8e015dd31/images/VSCode-Dark.svg"
-      alt="Raúl Mora" height="40" width="40" /></a>
- <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/Raulmora22/Raulmora22/ac4ea903136a18d032fd6cd969c8fbf8e015dd31/images/Bash-Dark.svg"
-      alt="Raúl Mora" height="40" width="40" /></a>
- <a href="https://hoppscotch.com/" target="blank"><img align="center"
-      src="https://github.com/Raulmora22/Raulmora22/blob/main/images/56705483.png?raw=true"
-      alt="Raúl Mora" height="40" width="40" /></a>
- <a href="https://dbgate.org/" target="blank"><img align="center"
-      src="https://github.com/Raulmora22/Raulmora22/blob/main/images/icon.png?raw=true"
-      alt="Raúl Mora" height="40" width="40" /></a>
-  <a href="https://git-scm.com/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/Raulmora22/Raulmora22/ac4ea903136a18d032fd6cd969c8fbf8e015dd31/images/Git.svg"
-      alt="Raúl Mora" height="40" width="40" /></a>
- <a href="" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/Raulmora22/Raulmora22/ac4ea903136a18d032fd6cd969c8fbf8e015dd31/images/Github-Dark.svg"
-      alt="Raúl Mora" height="40" width="40" /></a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/Raulmora22/Raulmora22/ac4ea903136a18d032fd6cd969c8fbf8e015dd31/images/HTML.svg"
-      alt="Raúl Mora" height="40" width="40" /></a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/Raulmora22/Raulmora22/ac4ea903136a18d032fd6cd969c8fbf8e015dd31/images/CSS.svg"
-      alt="Raúl Mora" height="40" width="40" /></a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/Raulmora22/Raulmora22/ac4ea903136a18d032fd6cd969c8fbf8e015dd31/images/JavaScript.svg"
-      alt="Raúl Mora" height="40" width="40" /></a>
- <a href="https://docker.com" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/Raulmora22/Raulmora22/ac4ea903136a18d032fd6cd969c8fbf8e015dd31/images/Docker.svg"
-      alt="Raúl Mora" height="40" width="40" /></a>
- <a href="https://docker.com" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/Raulmora22/Raulmora22/ac4ea903136a18d032fd6cd969c8fbf8e015dd31/images/Linux-Dark.svg"
-      alt="Raúl Mora" height="40" width="40" /></a>
- 
+<h2 align="left">About me</h2>
 
+###
 
-      
+<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
+###
 
+<h2 align="left">I code with</h2>
 
-</p>
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+</div>
 
-<br>
+###
 
-<b><h3 align="center"> I am studying :</h3></b>
-<p align="center"> 
-      <img src="https://raw.githubusercontent.com/Raulmora22/Raulmora22/ac4ea903136a18d032fd6cd969c8fbf8e015dd31/images/TailwindCSS-Dark.svg"  
-      alt="bootstrap" width="40" height="40" /> </a> 
-      <img src="https://raw.githubusercontent.com/Raulmora22/Raulmora22/ac4ea903136a18d032fd6cd969c8fbf8e015dd31/images/TypeScript.svg"
-      alt="bootstrap" width="40" height="40" /> </a> 
-      <img src="https://raw.githubusercontent.com/Raulmora22/Raulmora22/ac4ea903136a18d032fd6cd969c8fbf8e015dd31/images/MongoDB.svg"
-      alt="bootstrap" width="40" height="40" /> </a> 
-      <img src="https://raw.githubusercontent.com/Raulmora22/Raulmora22/ac4ea903136a18d032fd6cd969c8fbf8e015dd31/images/MySQL-Dark.svg"
-      alt="bootstrap" width="40" height="40" /> </a> 
-      <img src="https://raw.githubusercontent.com/Raulmora22/Raulmora22/ac4ea903136a18d032fd6cd969c8fbf8e015dd31/images/Java-Dark.svg"
-      alt="bootstrap" width="40" height="40" /> </a>
-      <img src="https://raw.githubusercontent.com/Raulmora22/Raulmora22/ac4ea903136a18d032fd6cd969c8fbf8e015dd31/images/Kubernetes.svg"
-      alt="bootstrap" width="40" height="40" /></a> 
-      <img src="https://raw.githubusercontent.com/Raulmora22/Raulmora22/ac4ea903136a18d032fd6cd969c8fbf8e015dd31/images/Astro.svg"
-      alt="bootstrap" width="40" height="40" /></a> 
-      <img src="https://raw.githubusercontent.com/Raulmora22/Raulmora22/ac4ea903136a18d032fd6cd969c8fbf8e015dd31/images/VueJS-Dark.svg"
-      alt="bootstrap" width="40" height="40" /></a>
-      <img src="https://raw.githubusercontent.com/Raulmora22/Raulmora22/ac4ea903136a18d032fd6cd969c8fbf8e015dd31/images/GoLang.svg"
-      alt="bootstrap" width="40" height="40" /></a>
-      <img src="https://raw.githubusercontent.com/Raulmora22/Raulmora22/ac4ea903136a18d032fd6cd969c8fbf8e015dd31/images/Svelte.svg"
-      alt="bootstrap" width="40" height="40" /></a>
-      <img src="https://raw.githubusercontent.com/Raulmora22/Raulmora22/ac4ea903136a18d032fd6cd969c8fbf8e015dd31/images/React-Dark.svg"
-      alt="bootstrap" width="40" height="40" /></a>  
-      <img src="https://raw.githubusercontent.com/Raulmora22/Raulmora22/ac4ea903136a18d032fd6cd969c8fbf8e015dd31/images/NextJS-Dark.svg"
-      alt="bootstrap" width="40" height="40" /></a>
-      <img src="https://raw.githubusercontent.com/Raulmora22/Raulmora22/ac4ea903136a18d032fd6cd969c8fbf8e015dd31/images/py.svg"
-      alt="bootstrap" width="40" height="40" /></a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aneal07&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="languages graph" /> <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aneal07&theme=dark&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Raulmora22&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10" height="150" alt="stats graph"  />
+</div>
 
- 
-    
-
-<br>
-
-
-<br>
-
- <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=Aneal07&theme=dark&hide_border=false&include_all_commits=false&count_private=false"/>
-
- <img  align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=Aneal07&theme=dark&hide_border=false"/>
- 
- <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Raulmora22&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-
-  
- 
+###
