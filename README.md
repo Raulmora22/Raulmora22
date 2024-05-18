@@ -91,10 +91,8 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aneal07&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="languages graph" /> <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aneal07&theme=dark&hide_border=false" height="150" alt="stats graph"  />
-  
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Raulmora22&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Raulmora22&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150" alt="languages graph" /> <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raulmora22&theme=dark&hide_border=false" height="150" alt="stats graph"  /> <br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie&theme=dark&hide_border=false"/> <br>
 </div>
-  
  
