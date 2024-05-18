@@ -2,7 +2,8 @@
 
 <br>
 
-- <p align="center" > I’m currently learning Web Development and other programming languages 
+<div size='20px' align ="center">I’m currently learning Web Development and other programming languages 
+</div>
 
 
 <br>
@@ -54,7 +55,7 @@
 
 <br>
 
-<b><h3 align="center"> I am studying :</h3></b>
+<b><h3 align="center"> I am studying</h3></b>
 <p align="center"> 
       <img src="https://raw.githubusercontent.com/Raulmora22/Raulmora22/ac4ea903136a18d032fd6cd969c8fbf8e015dd31/images/TailwindCSS-Dark.svg"  
       alt="bootstrap" width="40" height="40" /> </a> 
@@ -95,4 +96,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raulmora22&theme=dark&hide_border=false" height="150" alt="stats graph"  /> <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie&theme=dark&hide_border=false"/> <br>
 </div>
+  
+ 
  
